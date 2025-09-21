@@ -1,0 +1,17 @@
+# env / build
+.venv*/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.notebooks/
+
+# large data & artifacts
+data/
+features/
+models/
+# keep the GMM mat file out of repo too
+*.mat
+
+# editor junk
+.DS_Store
+*.swp
