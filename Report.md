@@ -1,7 +1,7 @@
 # HW-2 Report: Gradient Features and Aggregation
 
 **Course:** ECE 479/5582 Computer Vision  
-**Student:** *Your Name*  
+**Student:** Manuel Buffa  
 **Repo:** [CS5582-HW-2](https://github.com/BuffaloManwich/CS5582-HW-2)
 
 ---
